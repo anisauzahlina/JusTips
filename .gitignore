@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+justips.db
+justips.db-wal
+justips.db-shm
